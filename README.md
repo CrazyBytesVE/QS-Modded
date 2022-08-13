@@ -10,6 +10,9 @@
 - Android 12-13
 - Sólo ha sido probado en ROMs estilo AOSP. No funcionará en capas gráficas tales como Miui y otras similares.
 
+## Descarga
+- https://github.com/CrazyBytesVE/QS-Modded/releases
+
 ---
 ## Créditos
 - [@LessContent](https://t.me/lesscontent) y [@iamakima](https://t.me/iamakima) / Módulo original 
@@ -31,6 +34,10 @@
 ## Compatibility
 - Android 12-13
 - Has only been tested on AOSP style ROMs. It will not work on graphical overlays such as Miui and the like.
+
+
+## Download
+- https://github.com/CrazyBytesVE/QS-Modded/releases
 
 ---
 ## Credits
