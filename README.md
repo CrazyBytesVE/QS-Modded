@@ -14,7 +14,6 @@
 ## Descarga
 - https://github.com/CrazyBytesVE/QS-Modded/releases
 
----
 ## Créditos
 - [@LessContent](https://t.me/lesscontent) y [@iamakima](https://t.me/iamakima) / Módulo original 
 
@@ -36,10 +35,8 @@
 - Android 12-13
 - Has only been tested on AOSP style ROMs. It will not work on graphical overlays such as Miui and the like.
 
-
 ## Download
 - https://github.com/CrazyBytesVE/QS-Modded/releases
 
----
 ## Credits
 - [@LessContent](https://t.me/lesscontent) and [@iamakima](https://t.me/iamakima) / Original module.
