@@ -4,7 +4,7 @@
 ---
 ## Vista rápida
 - Hace que los Quick Settings tengan un aspecto menos redondeado (más rectangulares)
-- También añade un efecto degradado (gfadiente) al fondo de los Quick Settings.
+- También añade un efecto degradado (gradiente) al fondo de los Quick Settings.
 - Al expandir los Q.S., si se tienen más de 4 filas de elementos se desplazarán hacia la derecha.
 
 ## Compatibilidad
@@ -29,7 +29,7 @@
 ---
 ## Quick View
 - Makes the Quick Settings look less rounded (more rectangular).
-- Also adds a gradient effect (gfadient) to the background of the Quick Settings.
+- Also adds a gradient effect (gradient) to the background of the Quick Settings.
 - When expanding the Q.S., if you have more than 4 rows of items they will be shifted to the right.
 
 ## Compatibility
