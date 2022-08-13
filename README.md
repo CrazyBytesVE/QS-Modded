@@ -11,6 +11,9 @@
 - Android 12-13
 - Sólo ha sido probado en ROMs estilo AOSP. No funcionará en capas gráficas tales como Miui y otras similares.
 
+## Instrucciones
+- Instalar el zip descargado desde el apartado Releases en Magisk y reiniciar.
+
 ## Descarga
 - https://github.com/CrazyBytesVE/QS-Modded/releases
 
@@ -34,6 +37,9 @@
 ## Compatibility
 - Android 12-13
 - Has only been tested on AOSP style ROMs. It will not work on graphical overlays such as Miui and the like.
+
+## Instructions
+- Install the zip downloaded from the Releases section in Magisk and reboot.
 
 ## Download
 - https://github.com/CrazyBytesVE/QS-Modded/releases
