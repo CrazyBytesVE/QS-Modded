@@ -1,6 +1,5 @@
 # Quick Settings Modificados
 
-![](https://github.com/CrazyBytesVE/QS-Modded/blob/main/SC.png)
 ---
 ## Vista rápida
 - Hace que los Quick Settings tengan un aspecto menos redondeado (más rectangulares)
