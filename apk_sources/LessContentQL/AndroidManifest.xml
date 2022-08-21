@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="30" android:compileSdkVersionCodename="S" package="QSShapeGradient.overlay" platformBuildVersionCode="30" platformBuildVersionName="S">
+    <application android:allowBackup="true" android:debuggable="true" android:extractNativeLibs="true" android:hasCode="true" android:name="LessContentQL.overlay" android:supportsRtl="true" android:testOnly="true"/>
+    <overlay android:isStatic="true" android:priority="2000" android:targetPackage="com.android.systemui"/>
+</manifest>
